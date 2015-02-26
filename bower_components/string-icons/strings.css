@@ -1,0 +1,361 @@
+@font-face {
+	font-family: 'strings';
+	src:url('fonts/strings.eot?-gsphdl');
+	src:url('fonts/strings.eot?#iefix-gsphdl') format('embedded-opentype'),
+		url('fonts/strings.woff?-gsphdl') format('woff'),
+		url('fonts/strings.ttf?-gsphdl') format('truetype'),
+		url('fonts/strings.svg?-gsphdl#strings') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="s-"], [class*=" s-"] {
+	font-family: 'strings';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.s-align-center:before {
+	content: "\e600";
+}
+
+.s-align-justify:before {
+	content: "\e601";
+}
+
+.s-align-left:before {
+	content: "\e602";
+}
+
+.s-align-right:before {
+	content: "\e603";
+}
+
+.s-arrow-down:before {
+	content: "\e604";
+}
+
+.s-arrow-left:before {
+	content: "\e605";
+}
+
+.s-arrow-right:before {
+	content: "\e606";
+}
+
+.s-arrow-up:before {
+	content: "\e607";
+}
+
+.s-bell:before {
+	content: "\e608";
+}
+
+.s-bold:before {
+	content: "\e609";
+}
+
+.s-book:before {
+	content: "\e60a";
+}
+
+.s-brush:before {
+	content: "\e60b";
+}
+
+.s-bug:before {
+	content: "\e60c";
+}
+
+.s-check:before {
+	content: "\e60d";
+}
+
+.s-circle-check:before {
+	content: "\e60e";
+}
+
+.s-circle-minus:before {
+	content: "\e60f";
+}
+
+.s-circle-plus:before {
+	content: "\e610";
+}
+
+.s-circle-times:before {
+	content: "\e611";
+}
+
+.s-clipboard:before {
+	content: "\e612";
+}
+
+.s-clock:before {
+	content: "\e613";
+}
+
+.s-code:before {
+	content: "\e614";
+}
+
+.s-coffee:before {
+	content: "\e615";
+}
+
+.s-cog:before {
+	content: "\e616";
+}
+
+.s-color:before {
+	content: "\e617";
+}
+
+.s-contract:before {
+	content: "\e618";
+}
+
+.s-copy:before {
+	content: "\e619";
+}
+
+.s-desktop:before {
+	content: "\e61a";
+}
+
+.s-download:before {
+	content: "\e61b";
+}
+
+.s-ellipsis:before {
+	content: "\e61c";
+}
+
+.s-ellipsis-h:before {
+	content: "\e61d";
+}
+
+.s-eraser:before {
+	content: "\e61e";
+}
+
+.s-expand-1:before {
+	content: "\e61f";
+}
+
+.s-expand-2:before {
+	content: "\e620";
+}
+
+.s-expand-d:before {
+	content: "\e621";
+}
+
+.s-expand-h:before {
+	content: "\e622";
+}
+
+.s-expand-v:before {
+	content: "\e623";
+}
+
+.s-eye:before {
+	content: "\e624";
+}
+
+.s-file:before {
+	content: "\e625";
+}
+
+.s-file-code:before {
+	content: "\e626";
+}
+
+.s-files:before {
+	content: "\e627";
+}
+
+.s-flask:before {
+	content: "\e628";
+}
+
+.s-folder:before {
+	content: "\e629";
+}
+
+.s-folder-o:before {
+	content: "\e62a";
+}
+
+.s-form:before {
+	content: "\e62b";
+}
+
+.s-graph:before {
+	content: "\e62c";
+}
+
+.s-grid-1:before {
+	content: "\e62d";
+}
+
+.s-grid-2:before {
+	content: "\e62e";
+}
+
+.s-group:before {
+	content: "\e62f";
+}
+
+.s-heart:before {
+	content: "\e630";
+}
+
+.s-image:before {
+	content: "\e631";
+}
+
+.s-info:before {
+	content: "\e632";
+}
+
+.s-italic:before {
+	content: "\e633";
+}
+
+.s-layout:before {
+	content: "\e634";
+}
+
+.s-link:before {
+	content: "\e635";
+}
+
+.s-list-bulleted:before {
+	content: "\e636";
+}
+
+.s-list-numbered:before {
+	content: "\e637";
+}
+
+.s-lock:before {
+	content: "\e638";
+}
+
+.s-minus:before {
+	content: "\e639";
+}
+
+.s-moon:before {
+	content: "\e63a";
+}
+
+.s-phone:before {
+	content: "\e63b";
+}
+
+.s-phone-landscape:before {
+	content: "\e63c";
+}
+
+.s-plus:before {
+	content: "\e63d";
+}
+
+.s-pop-out:before {
+	content: "\e63e";
+}
+
+.s-puzzle:before {
+	content: "\e63f";
+}
+
+.s-question:before {
+	content: "\e640";
+}
+
+.s-refresh:before {
+	content: "\e641";
+}
+
+.s-scissors:before {
+	content: "\e642";
+}
+
+.s-search:before {
+	content: "\e643";
+}
+
+.s-square-check:before {
+	content: "\e644";
+}
+
+.s-square-minus:before {
+	content: "\e645";
+}
+
+.s-square-plus:before {
+	content: "\e646";
+}
+
+.s-square-times:before {
+	content: "\e647";
+}
+
+.s-stack:before {
+	content: "\e648";
+}
+
+.s-strikethrough:before {
+	content: "\e649";
+}
+
+.s-subscript:before {
+	content: "\e64a";
+}
+
+.s-sun:before {
+	content: "\e64b";
+}
+
+.s-superscript:before {
+	content: "\e64c";
+}
+
+.s-tablet:before {
+	content: "\e64d";
+}
+
+.s-times:before {
+	content: "\e64e";
+}
+
+.s-trash:before {
+	content: "\e64f";
+}
+
+.s-underline:before {
+	content: "\e650";
+}
+
+.s-upload:before {
+	content: "\e651";
+}
+
+.s-user:before {
+	content: "\e652";
+}
+
+.s-warning:before {
+	content: "\e653";
+}
+

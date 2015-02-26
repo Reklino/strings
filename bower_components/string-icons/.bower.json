@@ -1,0 +1,37 @@
+{
+  "name": "strings",
+  "authors": [
+    "Reklino <yakub89@gmail.com>"
+  ],
+  "description": "Growing open source library of simple 20px svg icons.",
+  "main": "strings.css",
+  "keywords": [
+    "svg",
+    "icon",
+    "icons",
+    "simple",
+    "strings",
+    "line",
+    "thin",
+    "vector"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Reklino/strings",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "24180d1aa2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "24180d1aa27b8055e788a7458b1502d77ba39501"
+  },
+  "_source": "git://github.com/Reklino/strings.git",
+  "_target": "*",
+  "_originalSource": "string-icons",
+  "_direct": true
+}
