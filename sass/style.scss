@@ -1,4 +1,147 @@
 // Screen
 // ======
 
+@import "compass/css3";
+@import "compass/reset";
 @import "grids";
+
+/*==============================
+=            Colors            =
+==============================*/
+
+$light: #d7dfea;
+$medium: #9ba6be;
+$dark: #4f5262;
+$black: #333949;
+$bg: #f1f4fd;
+$primary: #53dd6e;
+
+/*-----  End of Colors  ------*/
+
+
+/*============================
+=            Base            =
+============================*/
+
+body {
+	background: $bg;
+}
+
+/*-----  End of Base  ------*/
+
+/*==================================
+=            Typography            =
+==================================*/
+
+body {
+	color: $dark;
+	font-size: 16px;
+	font-family: 'Raleway', sans-serif;
+}
+h1, h2, h3, h4, h5 {
+	margin-bottom: #{$line}px;
+}
+h1 {
+	font-size: 72px;
+}
+
+.sub {
+	color: $medium;
+	font-weight: 300;
+	font-size: 18px;
+	margin-bottom: #{$line}px;
+}
+
+p {
+	font-weight: 400;
+}
+
+/*-----  End of Typography  ------*/
+
+/*==============================
+=            Layout            =
+==============================*/
+
+.container {
+	@include container;
+	width: 960px;
+}
+.col-12 {
+	@include span(12 of 12);
+}
+
+header {
+	background: $black;
+	width: 100%;
+	text-align: center;
+	padding: 4em 0 8em;
+	color: white;
+}
+main {
+	padding: 2em 0;
+}
+.icons {
+	width: 100%;
+	background: white;
+	margin-top: -120px;
+	@include box-sizing(border-box);
+	padding: 0 3em 3em;
+	@include border-radius(20px);
+	list-style: none;
+	&:after {
+		content:'';
+		display: block;
+		clear: both;
+	}
+	li {
+		position: relative;
+		@include box-sizing(border-box);
+		padding: 3em 0 0;
+		text-align: center;
+		@include span(2 of 12);
+		.s {
+			font-size: 30px;
+			font-weight: normal;
+		}
+		.name {
+			font-size: 14px;
+			color: $medium;
+			margin-top: 2em;
+			padding: .75em 0;
+			bottom: 0;
+			border: 2px solid $light;
+			border-width: 2px 0 2px 0;
+		}
+	}
+}
+
+footer {
+	width: 100%;
+	padding: 2em 0;
+	background: $light;
+}
+
+/*-----  End of Layout  ------*/
+
+/*==================================
+=            Components            =
+==================================*/
+
+.btn {
+	display: inline-block;
+	text-decoration: none;
+	height: #{$line*2}px;
+	line-height: #{$line*2}px;
+	padding: 0 2em;
+	background: $primary;
+	@include border-radius(100px);
+	color: white;
+	&:hover {
+		background: $medium;
+	}
+}
+
+/*-----  End of Components  ------*/
+
+
+

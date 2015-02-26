@@ -1,0 +1,236 @@
+/* line 5, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../Library/Ruby/Gems/1.8/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/*==============================
+=            Colors            =
+==============================*/
+/*-----  End of Colors  ------*/
+/*============================
+=            Base            =
+============================*/
+/* line 26, ../sass/style.scss */
+body {
+  background: #f1f4fd;
+}
+
+/*-----  End of Base  ------*/
+/*==================================
+=            Typography            =
+==================================*/
+/* line 36, ../sass/style.scss */
+body {
+  color: #4f5262;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* line 41, ../sass/style.scss */
+h1, h2, h3, h4, h5 {
+  margin-bottom: 24px;
+}
+
+/* line 44, ../sass/style.scss */
+h1 {
+  font-size: 72px;
+}
+
+/* line 48, ../sass/style.scss */
+.sub {
+  color: #9ba6be;
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+
+/* line 55, ../sass/style.scss */
+p {
+  font-weight: 400;
+}
+
+/*-----  End of Typography  ------*/
+/*==============================
+=            Layout            =
+==============================*/
+/* line 65, ../sass/style.scss */
+.container {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+/* line 12, ../../../../../../Library/Ruby/Gems/1.8/gems/susy-2.1.3/sass/susy/output/support/_clearfix.scss */
+.container:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 69, ../sass/style.scss */
+.col-12 {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+}
+
+/* line 73, ../sass/style.scss */
+header {
+  background: #333949;
+  width: 100%;
+  text-align: center;
+  padding: 4em 0 8em;
+  color: white;
+}
+
+/* line 80, ../sass/style.scss */
+main {
+  padding: 2em 0;
+}
+
+/* line 83, ../sass/style.scss */
+.icons {
+  width: 100%;
+  background: white;
+  margin-top: -120px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 3em 3em;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  list-style: none;
+}
+/* line 91, ../sass/style.scss */
+.icons:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 96, ../sass/style.scss */
+.icons li {
+  position: relative;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 3em 0 0;
+  text-align: center;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 16.66667%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+}
+/* line 102, ../sass/style.scss */
+.icons li .s {
+  font-size: 30px;
+  font-weight: normal;
+}
+/* line 106, ../sass/style.scss */
+.icons li .name {
+  font-size: 14px;
+  color: #9ba6be;
+  margin-top: 2em;
+  padding: .75em 0;
+  bottom: 0;
+  border: 2px solid #d7dfea;
+  border-width: 2px 0 2px 0;
+}
+
+/* line 118, ../sass/style.scss */
+footer {
+  width: 100%;
+  padding: 2em 0;
+  background: #d7dfea;
+}
+
+/*-----  End of Layout  ------*/
+/*==================================
+=            Components            =
+==================================*/
+/* line 130, ../sass/style.scss */
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  height: 48px;
+  line-height: 48px;
+  padding: 0 2em;
+  background: #53dd6e;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 100px;
+  color: white;
+}
+/* line 139, ../sass/style.scss */
+.btn:hover {
+  background: #9ba6be;
+}
+
+/*-----  End of Components  ------*/

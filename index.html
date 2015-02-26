@@ -3,18 +3,36 @@
 <head>
 	<title>Strings</title>
 	<link rel="stylesheet" type="text/css" href="bower_components/string-icons/strings.css">
-	<link href="/stylesheets/style.css" rel="stylesheet" type="text/css" />
+	<link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Raleway:300,400|Lora:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
 	<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
 	<script type="text/javascript" src="app.js"></script>
 </head>
 <body ng-controller="MainController">
-	<p>In Progress :)</p>
-	<ul>
-		<li ng-repeat="icon in selection.icons">
-			<span class="s-{{icon.properties.name}}"></span>
-			<p>{{icon.properties.name}}</p>
-		</li>
-	</ul>
+	<header>
+		<div class="container">
+			<div class="col-12">
+				<h1>Strings</h1>
+				<p class="sub">Created by You.</p>
+				<a class="btn" href="https://github.com/Reklino/strings">Learn how to contribute <span class="s-arrow-right"></span></a>
+			</div>
+		</div>
+	</header>
+	<main class="container">
+		<ul class="icons">
+			<li ng-repeat="icon in selection.icons">
+				<span class="s s-{{icon.properties.name}}"></span>
+				<p class="name">s-{{icon.properties.name}}</p>
+			</li>
+		</ul>
+	</main>	
+	<footer>
+		<div class="container">
+			<div class="col-12">
+				<p>Created by <a href="https://github.com/Reklino">Reklino</a></p>
+			</div>
+		</div>
+	</footer>
 </body>
 </html>
