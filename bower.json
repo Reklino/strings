@@ -24,6 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "string-icons": "*"
+    "string-icons": "*",
+    "angular": "~1.3.14"
   }
 }

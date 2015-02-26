@@ -1,14 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="App">
 <head>
 	<title>Strings</title>
 	<link rel="stylesheet" type="text/css" href="bower_components/string-icons/strings.css">
 	<link href="/stylesheets/style.css" rel="stylesheet" type="text/css" />
+
+	<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
 </head>
-<body>
+<body ng-controller="MainController">
+	<p>In Progress :)</p>
 	<ul>
-		<li>
-			<span class="s-coffee"></span>
+		<li ng-repeat="icon in selection.icons">
+			<span class="s-{{icon.properties.name}}"></span>
+			<p>{{icon.properties.name}}</p>
 		</li>
 	</ul>
 </body>
