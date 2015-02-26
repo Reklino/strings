@@ -94,9 +94,10 @@ h1, h2, h3, h4, h5 {
 /* line 44, ../sass/style.scss */
 h1 {
   font-size: 72px;
+  margin-bottom: 48px;
 }
 
-/* line 48, ../sass/style.scss */
+/* line 49, ../sass/style.scss */
 .sub {
   color: #9ba6be;
   font-weight: 300;
@@ -104,7 +105,7 @@ h1 {
   margin-bottom: 24px;
 }
 
-/* line 55, ../sass/style.scss */
+/* line 56, ../sass/style.scss */
 p {
   font-weight: 400;
 }
@@ -113,7 +114,7 @@ p {
 /*==============================
 =            Layout            =
 ==============================*/
-/* line 65, ../sass/style.scss */
+/* line 66, ../sass/style.scss */
 .container {
   max-width: 100%;
   margin-left: auto;
@@ -127,7 +128,7 @@ p {
   clear: both;
 }
 
-/* line 69, ../sass/style.scss */
+/* line 70, ../sass/style.scss */
 .col-12 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -138,7 +139,7 @@ p {
   padding-right: 0.83333%;
 }
 
-/* line 73, ../sass/style.scss */
+/* line 74, ../sass/style.scss */
 header {
   background: #333949;
   width: 100%;
@@ -147,12 +148,12 @@ header {
   color: white;
 }
 
-/* line 80, ../sass/style.scss */
+/* line 81, ../sass/style.scss */
 main {
   padding: 2em 0;
 }
 
-/* line 83, ../sass/style.scss */
+/* line 84, ../sass/style.scss */
 .icons {
   width: 100%;
   background: white;
@@ -166,13 +167,13 @@ main {
   border-radius: 20px;
   list-style: none;
 }
-/* line 91, ../sass/style.scss */
+/* line 92, ../sass/style.scss */
 .icons:after {
   content: '';
   display: block;
   clear: both;
 }
-/* line 96, ../sass/style.scss */
+/* line 97, ../sass/style.scss */
 .icons li {
   position: relative;
   -moz-box-sizing: border-box;
@@ -188,12 +189,12 @@ main {
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 102, ../sass/style.scss */
+/* line 103, ../sass/style.scss */
 .icons li .s {
   font-size: 30px;
   font-weight: normal;
 }
-/* line 106, ../sass/style.scss */
+/* line 107, ../sass/style.scss */
 .icons li .name {
   font-size: 14px;
   color: #9ba6be;
@@ -204,7 +205,7 @@ main {
   border-width: 2px 0 2px 0;
 }
 
-/* line 118, ../sass/style.scss */
+/* line 119, ../sass/style.scss */
 footer {
   width: 100%;
   padding: 2em 0;
@@ -215,7 +216,7 @@ footer {
 /*==================================
 =            Components            =
 ==================================*/
-/* line 130, ../sass/style.scss */
+/* line 131, ../sass/style.scss */
 .btn {
   display: inline-block;
   text-decoration: none;
@@ -228,7 +229,7 @@ footer {
   border-radius: 100px;
   color: white;
 }
-/* line 139, ../sass/style.scss */
+/* line 140, ../sass/style.scss */
 .btn:hover {
   background: #9ba6be;
 }
