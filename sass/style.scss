@@ -87,7 +87,7 @@ main {
 	margin-top: -120px;
 	@include box-sizing(border-box);
 	padding: 0 3em 3em;
-	@include border-radius(20px);
+	@include border-radius(10px);
 	list-style: none;
 	&:after {
 		content:'';
@@ -108,10 +108,10 @@ main {
 			font-size: 14px;
 			color: $medium;
 			margin-top: 2em;
-			padding: .75em 0;
+			padding: 0 0 1.5em;
 			bottom: 0;
-			border: 2px solid $light;
-			border-width: 2px 0 2px 0;
+			border: 2px dashed $light;
+			border-width: 0 0 2px 0;
 		}
 	}
 }
@@ -130,16 +130,18 @@ footer {
 ==================================*/
 
 .btn {
+	@include box-sizing(border-box);
 	display: inline-block;
 	text-decoration: none;
 	height: #{$line*2}px;
-	line-height: #{$line*2}px;
+	line-height: 42px;
 	padding: 0 2em;
-	background: $primary;
+	border: 3px solid $primary;
+	background: transparent;
 	@include border-radius(100px);
-	color: white;
+	color: $primary;
 	&:hover {
-		background: $medium;
+		background: $primary;
 	}
 }
 
