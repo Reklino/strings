@@ -141,6 +141,7 @@ footer {
 	@include border-radius(100px);
 	color: $primary;
 	&:hover {
+		color: white;
 		background: $primary;
 	}
 }
