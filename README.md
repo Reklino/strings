@@ -1,3 +1,5 @@
+[http://reklino.github.io/strings/](http://reklino.github.io/strings/)
+
 # Why another icon set?
 
 There is no lack of linear icon font freebies on the web today. Just do a google search and you'll find a neverending list of free downloadable iconsets with 20-100 icons each. **So why add to the list?**
