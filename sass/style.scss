@@ -36,7 +36,7 @@ body {
 body {
 	color: $dark;
 	font-size: 16px;
-	font-family: 'Raleway', sans-serif;
+	font-family: "rooney-sans",sans-serif;
 }
 h1, h2, h3, h4, h5 {
 	margin-bottom: #{$line}px;
@@ -99,9 +99,9 @@ main {
 		@include box-sizing(border-box);
 		padding: 3em 0 0;
 		text-align: center;
-		@include span(2 of 12);
+		@include span(3 of 12);
 		.s {
-			font-size: 30px;
+			font-size: 40px;
 			font-weight: normal;
 		}
 		.name {
@@ -117,6 +117,7 @@ main {
 }
 
 footer {
+	text-align: center;
 	width: 100%;
 	padding: 2em 0;
 	background: $light;
