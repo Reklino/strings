@@ -236,6 +236,7 @@ footer {
 }
 /* line 143, ../sass/style.scss */
 .btn:hover {
+  color: white;
   background: #53dd6e;
 }
 
