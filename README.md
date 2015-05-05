@@ -1,6 +1,6 @@
 [http://reklino.github.io/strings/](http://reklino.github.io/strings/)
 
-# Why another icon set?
+# What?
 
 Just another fun linear icon set. Feel free to use them if you like them :)
 
