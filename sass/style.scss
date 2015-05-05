@@ -56,6 +56,7 @@ h1 {
 p {
 	font-weight: 400;
 }
+a { color: $primary; text-decoration: none; }
 
 /*-----  End of Typography  ------*/
 
@@ -120,7 +121,7 @@ footer {
 	text-align: center;
 	width: 100%;
 	padding: 2em 0;
-	background: $light;
+	background: lighten($light, 5);
 }
 
 /*-----  End of Layout  ------*/

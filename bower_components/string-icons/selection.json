@@ -20,7 +20,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"align-center"
+					"align-center",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -68,7 +69,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"align-justify"
+					"align-justify",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -116,7 +118,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"align-left"
+					"align-left",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -164,7 +167,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"align-right"
+					"align-right",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -204,7 +208,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"arrow-down"
+					"arrow-down",
+					"Directional"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -236,7 +241,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"arrow-left"
+					"arrow-left",
+					"Directional"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -268,7 +274,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"arrow-right"
+					"arrow-right",
+					"Directional"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -300,7 +307,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"arrow-up"
+					"arrow-up",
+					"Directional"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -334,7 +342,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"bell"
+					"bell",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -372,7 +381,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"bold"
+					"bold",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -408,7 +418,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"book"
+					"book",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -440,7 +451,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"brush"
+					"brush",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -476,7 +488,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"bug"
+					"bug",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -512,7 +525,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"check"
+					"check",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -546,7 +560,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"circle-check"
+					"circle-check",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -582,7 +597,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"circle-minus"
+					"circle-minus",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -618,7 +634,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"circle-plus"
+					"circle-plus",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -654,7 +671,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"circle-times"
+					"circle-times",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -696,7 +714,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"clipboard"
+					"clipboard",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -740,7 +759,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"clock"
+					"clock",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -780,7 +800,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"code"
+					"code",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -818,7 +839,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"coffee"
+					"coffee",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -854,7 +876,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"cog"
+					"cog",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -888,7 +911,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"color"
+					"color",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -922,7 +946,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"contract"
+					"contract",
+					"Directional"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -966,7 +991,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"copy"
+					"copy",
+					"Text Editor",
+					"Files"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1008,7 +1035,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"desktop"
+					"desktop",
+					"Devices"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1042,7 +1070,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"download"
+					"download",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1080,7 +1109,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"ellipsis"
+					"ellipsis",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1120,7 +1150,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"ellipsis-h"
+					"ellipsis-h",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1160,7 +1191,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"eraser"
+					"eraser",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1202,7 +1234,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"expand-1"
+					"expand-1",
+					"Directional",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1246,7 +1280,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"expand-2"
+					"expand-2",
+					"Directional",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1286,7 +1322,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"expand-d"
+					"expand-d",
+					"Directional",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1320,7 +1358,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"expand-h"
+					"expand-h",
+					"Directional",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1352,7 +1392,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"expand-v"
+					"expand-v",
+					"Directional",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1386,7 +1428,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"eye"
+					"eye",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1430,7 +1473,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"file"
+					"file",
+					"Files"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1478,7 +1522,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"file-code"
+					"file-code",
+					"Files"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1526,7 +1571,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"files"
+					"files",
+					"Files"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1568,7 +1614,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"flask"
+					"flask",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1600,7 +1647,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"folder"
+					"folder",
+					"Files"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1632,7 +1680,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"folder-o"
+					"folder-o",
+					"Files"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1674,7 +1723,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"form"
+					"form",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1716,7 +1766,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"graph"
+					"graph",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1754,7 +1805,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"grid-1"
+					"grid-1",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1808,7 +1860,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"grid-2"
+					"grid-2",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1866,7 +1919,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"group"
+					"group",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1908,7 +1962,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"heart"
+					"heart",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1942,7 +1997,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"image"
+					"image",
+					"Files",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -1978,7 +2035,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"info"
+					"info",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2012,7 +2070,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"italic"
+					"italic",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2044,7 +2103,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"layout"
+					"layout",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2080,7 +2140,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"link"
+					"link",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2126,7 +2187,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"list-bulleted"
+					"list-bulleted",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2182,7 +2244,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"list-numbered"
+					"list-numbered",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2232,7 +2295,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"lock"
+					"lock",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2268,7 +2332,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"minus"
+					"minus",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2300,7 +2365,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"moon"
+					"moon",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2336,7 +2402,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"phone"
+					"phone",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2376,7 +2443,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"phone-landscape"
+					"phone-landscape",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2412,7 +2480,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"plus"
+					"plus",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2446,7 +2515,9 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"pop-out"
+					"pop-out",
+					"Directional",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2480,7 +2551,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"puzzle"
+					"puzzle",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2516,7 +2588,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"question"
+					"question",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2552,7 +2625,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"refresh"
+					"refresh",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2590,7 +2664,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"scissors"
+					"scissors",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2632,7 +2707,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"search"
+					"search",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2670,7 +2746,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"square-check"
+					"square-check",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2706,7 +2783,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"square-minus"
+					"square-minus",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2742,7 +2820,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"square-plus"
+					"square-plus",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2778,7 +2857,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"square-times"
+					"square-times",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2816,7 +2896,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"stack"
+					"stack",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2854,7 +2935,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"strikethrough"
+					"strikethrough",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2890,7 +2972,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"subscript"
+					"subscript",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2940,7 +3023,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"sun"
+					"sun",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -2990,7 +3074,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"superscript"
+					"superscript",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3028,7 +3113,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"tablet"
+					"tablet",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3064,7 +3150,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"times"
+					"times",
+					"Form Control"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3102,7 +3189,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"trash"
+					"trash",
+					"Tools"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3142,7 +3230,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"underline"
+					"underline",
+					"Text Editor"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3178,7 +3267,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"upload"
+					"upload",
+					"Actions"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3216,7 +3306,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"user"
+					"user",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [
@@ -3256,7 +3347,8 @@
 				"isMulticolor": false,
 				"grid": 0,
 				"tags": [
-					"warning"
+					"warning",
+					"Miscellaneous"
 				],
 				"colorPermutations": {
 					"6868681": [

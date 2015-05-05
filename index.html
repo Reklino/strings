@@ -17,18 +17,22 @@
 		<div class="container">
 			<div class="col-12">
 				<h1>Strings</h1>
-				<p class="sub">Created by You.</p>
-				<a class="btn" href="https://github.com/Reklino/strings">Learn how to contribute <span class="s-arrow-right"></span></a>
+				<p class="sub">Open Source linear icons created by  <a href="https://github.com/Reklino">Me</a></p>
+				<a class="btn" href="https://github.com/Reklino/strings">Get them on Github <span class="s-arrow-right"></span></a>
 			</div>
 		</div>
 	</header>
 	<main class="container">
-		<ul class="icons">
-			<li ng-repeat="icon in selection.icons">
-				<span class="s s-{{icon.properties.name}}"></span>
-				<p class="name">s-{{icon.properties.name}}</p>
-			</li>
-		</ul>
+		<div class="icons">
+			<div ng-repeat="category in categories">
+				<ul>
+					<li ng-repeat="icon in selection.icons | filter:category">
+						<span class="s s-{{icon.properties.name}}"></span>
+						<p class="name">s-{{icon.properties.name}}</p>
+					</li>
+				</ul>
+			</div>
+		</div>
 	</main>	
 	<footer>
 		<div class="container">

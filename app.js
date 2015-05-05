@@ -7,6 +7,14 @@ App.controller('MainController', function($scope, $http) {
 			$scope.selection = res.data;                
 		});
 
+	$scope.categories = [
+		'Miscellaneous',
+		'Text Editor',
+		'Tools',
+		'Form Control',
+		'Directional',
+		'Actions'
+	];
 
 
 });
